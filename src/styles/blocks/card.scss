@@ -57,6 +57,9 @@
   }
 
   &__btn {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
     box-sizing: border-box;
     width: 100%;
     font-weight: 700;
